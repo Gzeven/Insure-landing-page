@@ -415,7 +415,7 @@ footer {
         margin: 0;
 
         a {
-          padding: 0.75rem 0.5rem;
+          padding: 0.75rem 1rem;
           font-size: 0.9vw;
           color: $dark-grayish-violet;
           &:hover {
@@ -425,7 +425,9 @@ footer {
         }
       }
       .plans a {
-        border: 1px solid $dark-grayish-violet;
+        color: $very-dark-violet;
+        border: 2px solid $very-dark-violet;
+
         &:hover {
           color: #fff;
           background-color: $very-dark-violet;

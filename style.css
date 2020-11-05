@@ -396,7 +396,7 @@ footer .insure-info p:hover {
     margin: 0;
   }
   nav ul li a {
-    padding: 0.75rem 0.5rem;
+    padding: 0.75rem 1rem;
     font-size: 0.9vw;
     color: #837d87;
   }
@@ -405,7 +405,8 @@ footer .insure-info p:hover {
     text-decoration: none;
   }
   nav ul .plans a {
-    border: 1px solid #837d87;
+    color: #2b272f;
+    border: 2px solid #2b272f;
   }
   nav ul .plans a:hover {
     color: #fff;
